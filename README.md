@@ -1,13 +1,7 @@
 # Google vision API demo
-
-Make sure you understand
-[basic oauth tutorial](https://github.com/env3d/oauth-basic-tutorial).
-
-Then, look at the comments in index.html file, should be self explanatory.
+## WMDD4950 Assignment 4
 
 # How to run
-
-You'll need to run this on localhost:5000, I installed the lite-server npm package for this purpose
 
 ```
    npm install -g lite-server
@@ -16,4 +10,4 @@ You'll need to run this on localhost:5000, I installed the lite-server npm packa
 Then you simply run ```lite-server``` in the current directory.  The live version can be see at
 [https://env3d.github.io/oauth-vision-api-tutorial/](https://env3d.github.io/oauth-vision-api-tutorial/)
 
-![Demo](demo.gif)
+![Screenshot](Capture.PNG)
