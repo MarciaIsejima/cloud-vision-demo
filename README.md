@@ -4,7 +4,9 @@
 # How to run
 
 ```
-   npm install -g lite-server
+   lite-server
 ```
+
+# Screenshot
 
 ![Screenshot](Capture.PNG)
